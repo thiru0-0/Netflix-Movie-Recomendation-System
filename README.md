@@ -163,10 +163,7 @@ Movie Recomendation System/
 ---
 
 ## Author
-[Your Name]
-
-## License
-[Add your license here - e.g., MIT License]
+THIRU MURUGESH J D
 
 ---
 
