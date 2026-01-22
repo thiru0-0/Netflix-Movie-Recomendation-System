@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/08557e61-256e-4c21-90c6-df8949238f6b
+
+https://github.com/user-attachments/assets/8838cb01-30e4-477b-b13b-fa15705adfd3
 # 🎬 Movie Recommendation System
 
 ## Project Title
@@ -98,7 +102,12 @@ The application will open in your default browser at `http://localhost:8501`
 ---
 
 ## Demo Video
-*[Add your demo video link here - e.g., YouTube link or recorded GIF]*
+https://youtu.be/4GO2EuZpDI8
+  
+
+https://github.com/user-attachments/assets/4d81b8e2-d622-40ca-8850-22df3c883e7e
+
+
 
 ---
 
