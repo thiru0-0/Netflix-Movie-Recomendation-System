@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/08557e61-256e-4c21-90c6-df8949238f6b
-
-https://github.com/user-attachments/assets/8838cb01-30e4-477b-b13b-fa15705adfd3
 # 🎬 Movie Recommendation System
 
 ## Project Title
